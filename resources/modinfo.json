@@ -1,0 +1,17 @@
+{
+    "type": "code",
+    "modid": "projectiletrajectoryfix",
+    "name": "Projectile Trajectory Fix",
+    "authors": [
+        "Lazzeking"
+    ],
+    "version": "0.1.0",
+    "side": "Client",
+    "requiredOnClient": false,
+    "requiredOnServer": false,
+    "dependencies": {
+        "game": "1.22.7",
+        "speartrajectory": "10.0.9"
+    },
+    "description": "Makes Projectile Trajectory's line follow where vanilla spears and arrows really fly on 1.22.7"
+}

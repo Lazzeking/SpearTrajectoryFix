@@ -1,0 +1,8 @@
+obj
+bin
+# The upstream mod, its own git clone
+_originalrepo/
+# Other mods' dlls, from tools/fetch-libs.sh
+libs/
+# tools, redundant
+tools/
